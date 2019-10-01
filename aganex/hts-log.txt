@@ -1,0 +1,258 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Oct 2019 22:06:01 at http://agency.yolox.ancorathemes.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F Java1.1.4 -%l "en, *" http://agency.yolox.ancorathemes.com/ -O1 "C:\My Web Sites\aganex" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:10:28	Error: 	"Method Not Allowed" (405) at link agency.yolox.ancorathemes.com/xmlrpc.php (from agency.yolox.ancorathemes.com/)
+22:15:35	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com//letting-your-customers-experience-the-high-quality-design/
+22:15:35	Warning: 	File has moved from agency.yolox.ancorathemes.com//letting-your-customers-experience-the-high-quality-design/ to http://agency.yolox.ancorathemes.com/project-management-consulting-for-agencies/
+22:15:40	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com//what-makes-a-technical-task-great/
+22:15:40	Warning: 	File has moved from agency.yolox.ancorathemes.com//what-makes-a-technical-task-great/ to http://agency.yolox.ancorathemes.com/the-impact-of-the-digital-age-on-branding-tendencies/
+22:19:10	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/%22http:/agency.yolox.ancorathemes.com/category/products/ (from agency.yolox.ancorathemes.com/)
+22:24:40	Error: 	"Bad Request" (400) at link agency.yolox.ancorathemes.com/wp-admin/admin-ajax.php (from agency.yolox.ancorathemes.com/)
+22:24:45	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=47
+22:24:45	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=47 to http://agency.yolox.ancorathemes.com/typography/
+22:24:52	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=70
+22:24:52	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=70 to http://agency.yolox.ancorathemes.com/shortcodes/
+22:24:52	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/shortcodes/%22https:/player.vimeo.com/video/180709694?dnt=1&app_id=122963&autoplay=1%22 (from agency.yolox.ancorathemes.com/shortcodes/)
+22:24:52	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=91
+22:24:52	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=91 to http://agency.yolox.ancorathemes.com/privacy-policy/
+22:24:52	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=85
+22:24:52	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=85 to http://agency.yolox.ancorathemes.com/service-plus/
+22:24:52	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=238
+22:24:52	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=238 to http://agency.yolox.ancorathemes.com/about-us/
+22:24:52	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/team/samuel-jones/ (from agency.yolox.ancorathemes.com/about-us/)
+22:24:52	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/team/lisa-matthews/ (from agency.yolox.ancorathemes.com/about-us/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/team/david-moore/ (from agency.yolox.ancorathemes.com/about-us/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/team/alice-parker/ (from agency.yolox.ancorathemes.com/about-us/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/team/rita-lee/ (from agency.yolox.ancorathemes.com/about-us/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/team/diana-barton/ (from agency.yolox.ancorathemes.com/about-us/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/team/paul-smith/ (from agency.yolox.ancorathemes.com/about-us/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/team/tina-walker/ (from agency.yolox.ancorathemes.com/about-us/)
+22:24:53	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=2057
+22:24:53	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=2057 to http://agency.yolox.ancorathemes.com/jobs/
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/services/digital-design-intern/ (from agency.yolox.ancorathemes.com/jobs/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/services/inbound-marketing-consultant/ (from agency.yolox.ancorathemes.com/jobs/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/services/digital-project-manager/ (from agency.yolox.ancorathemes.com/jobs/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/services/assistant-administrator/ (from agency.yolox.ancorathemes.com/jobs/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/services/digital-customer-journey-senior-manager/ (from agency.yolox.ancorathemes.com/jobs/)
+22:24:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/services/campaign-analytics-specialist/ (from agency.yolox.ancorathemes.com/jobs/)
+22:25:22	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/)
+22:26:39	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=134
+22:26:39	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=134 to http://agency.yolox.ancorathemes.com/ui-engineering-is-about-to-go-viral-with-its-content/
+22:27:36	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=234
+22:27:36	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=234 to http://agency.yolox.ancorathemes.com/videos/
+22:27:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/videos/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/videos/)
+22:27:44	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/videos/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/videos/)
+22:28:23	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/videos/%22https:/player.vimeo.com/video/8419440?autoplay=1%22 (from agency.yolox.ancorathemes.com/videos/)
+22:28:27	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/videos/%22https:/player.vimeo.com/video/41083471?autoplay=1%22 (from agency.yolox.ancorathemes.com/videos/)
+22:28:27	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/videos/%22https:/player.vimeo.com/video/39691622?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/videos/)
+22:28:27	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=101
+22:28:27	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=101 to http://agency.yolox.ancorathemes.com/contacts/
+22:28:27	Warning: 	Link agency.yolox.ancorathemes.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:28:51	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=264
+22:28:51	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=264 to http://agency.yolox.ancorathemes.com/the-new-approach-to-digital-product-development-process/
+22:29:03	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=302
+22:29:03	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=302 to http://agency.yolox.ancorathemes.com/embracing-event-specific-type-in-interface-design/
+22:29:03	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=351
+22:29:03	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=351 to http://agency.yolox.ancorathemes.com/the-perfect-combination-for-a-new-business-project/
+22:29:05	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=2091
+22:29:05	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=2091 to http://agency.yolox.ancorathemes.com/10-things-that-will-help-your-business-in-2019/
+22:29:05	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=357
+22:29:05	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=357 to http://agency.yolox.ancorathemes.com/what-makes-a-good-website-for-the-best-user-experience/
+22:29:05	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=359
+22:29:05	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=359 to http://agency.yolox.ancorathemes.com/top-30-business-ideas-to-start-in-2019/
+22:29:11	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=361
+22:29:11	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=361 to http://agency.yolox.ancorathemes.com/learning-how-to-communicate-with-customers-easily/
+22:29:21	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=396
+22:29:21	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=396 to http://agency.yolox.ancorathemes.com/what-makes-a-good-ux-design-for-the-best-user-experience-4/
+22:29:32	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=286
+22:29:32	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=286 to http://agency.yolox.ancorathemes.com/why-stocks-make-bigger-moves-after-hours/
+22:30:07	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=288
+22:30:07	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=288 to http://agency.yolox.ancorathemes.com/how-to-win-the-customers-appreciation-loyalty/
+22:30:11	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=290
+22:30:11	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=290 to http://agency.yolox.ancorathemes.com/targeted-marketing-for-business-school-students/
+22:30:11	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=292
+22:30:11	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=292 to http://agency.yolox.ancorathemes.com/what-you-must-know-about-investment-today/
+22:30:11	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=294
+22:30:11	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=294 to http://agency.yolox.ancorathemes.com/bad-habits-of-freelancers-and-employees-who-get-paid-well/
+22:30:11	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=296
+22:30:11	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=296 to http://agency.yolox.ancorathemes.com/business-journal-the-designer-job-market-summary/
+22:30:11	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=149
+22:30:11	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=149 to http://agency.yolox.ancorathemes.com/what-you-didnt-know-about-branding-5-easy-hacks/
+22:30:11	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=157
+22:30:11	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=157 to http://agency.yolox.ancorathemes.com/is-it-difficult-to-redesign-projects-and-why/
+22:30:11	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=218
+22:30:11	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=218 to http://agency.yolox.ancorathemes.com/corporate-culture-is-never-determined-by-power/
+22:30:35	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=220
+22:30:35	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=220 to http://agency.yolox.ancorathemes.com/professional-data-analysis-and-storage-for-any-business/
+22:31:19	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=223
+22:31:19	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=223 to http://agency.yolox.ancorathemes.com/are-you-sure-that-woocommerce-is-the-best-platform/
+22:31:22	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=115
+22:31:22	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=115 to http://agency.yolox.ancorathemes.com/the-impact-of-the-digital-age-on-branding-tendencies/
+22:31:22	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=137
+22:31:22	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=137 to http://agency.yolox.ancorathemes.com/why-clients-prefer-working-with-young-agencies/
+22:31:30	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=2070
+22:31:30	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=2070 to http://agency.yolox.ancorathemes.com/event/digital-agencies-convention/
+22:31:30	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=126
+22:31:30	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=126 to http://agency.yolox.ancorathemes.com/project-management-consulting-for-agencies/
+22:31:30	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=122
+22:31:30	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=122 to http://agency.yolox.ancorathemes.com/smashing-the-agencies-with-new-customer-approach/
+22:31:30	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=124
+22:31:30	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=124 to http://agency.yolox.ancorathemes.com/sample-of-various-designer-portfolios/
+22:31:30	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=1009
+22:31:30	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=1009 to http://agency.yolox.ancorathemes.com/junior-designers-should-learn-to-be-creative/
+22:31:30	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=131
+22:31:30	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=131 to http://agency.yolox.ancorathemes.com/digital-marketing-podcast/
+22:31:30	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=128
+22:31:30	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=128 to http://agency.yolox.ancorathemes.com/we-help-you-to-attract-users-to-your-apps-and-websites/
+22:31:30	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/2/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/2/)
+22:31:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/3/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/3/)
+22:31:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/3/%22https:/player.vimeo.com/video/8419440?autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/3/)
+22:31:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/3/%22https:/player.vimeo.com/video/41083471?autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/3/)
+22:31:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/3/%22https:/player.vimeo.com/video/39691622?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/3/)
+22:31:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/3/%22https:/player.vimeo.com/video/98023574?autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/3/)
+22:31:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/3/%22https:/player.vimeo.com/video/108560545?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/3/)
+22:31:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/3/%22https:/player.vimeo.com/video/22309867?color=1c88b4&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/3/)
+22:31:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/3/%22https:/player.vimeo.com/video/117159756?autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/3/)
+22:31:36	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/3/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/3/)
+22:32:02	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=140
+22:32:02	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=140 to http://agency.yolox.ancorathemes.com/if-the-website-sales-are-low-try-these-simple-hacks/
+22:32:03	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/)
+22:32:38	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/articles/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/articles/)
+22:32:53	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/blog/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/blog/)
+22:33:05	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=147
+22:33:05	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=147 to http://agency.yolox.ancorathemes.com/so-you-are-starting-a-new-business-we-make-things-easier/
+22:33:05	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=142
+22:33:05	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=142 to http://agency.yolox.ancorathemes.com/your-company-needs-rebranding-every-five-years/
+22:33:05	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=144
+22:33:05	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=144 to http://agency.yolox.ancorathemes.com/how-to-get-your-brand-ahead-in-2019/
+22:33:05	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=151
+22:33:05	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=151 to http://agency.yolox.ancorathemes.com/10-must-have-apps-for-successful-marketing-analytics/
+22:33:05	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=154
+22:33:05	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=154 to http://agency.yolox.ancorathemes.com/advertising-agencies-need-to-step-up-their-game/
+22:33:06	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=273
+22:33:06	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=273 to http://agency.yolox.ancorathemes.com/what-modern-bloggers-are-missing-while-researching-new-designer-topics/
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/post-formats/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/category/post-formats/)
+22:33:07	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=210
+22:33:07	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=210 to http://agency.yolox.ancorathemes.com/big-city-lifestyle-commercials-marketing-amd-business-agencies/
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/)
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/)
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/%22https:/player.vimeo.com/video/8419440?autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/)
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/%22https:/player.vimeo.com/video/41083471?autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/)
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/%22https:/player.vimeo.com/video/39691622?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/)
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/%22https:/player.vimeo.com/video/98023574?autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/)
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/%22https:/player.vimeo.com/video/108560545?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/)
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/%22https:/player.vimeo.com/video/22309867?color=1c88b4&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/)
+22:33:07	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/%22https:/player.vimeo.com/video/117159756?autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/)
+22:33:21	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=212
+22:33:21	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=212 to http://agency.yolox.ancorathemes.com/how-to-get-a-successful-ad-for-your-business-new-or-existing/
+22:33:21	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=214
+22:33:21	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=214 to http://agency.yolox.ancorathemes.com/building-your-corporate-identity-from-scratch/
+22:33:21	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=216
+22:33:21	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=216 to http://agency.yolox.ancorathemes.com/running-in-a-circle-heres-an-easy-way-out/
+22:33:21	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=270
+22:33:21	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=270 to http://agency.yolox.ancorathemes.com/whats-new-in-the-world-of-graphic-design-and-how-to-use-it-for-business/
+22:33:25	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=232
+22:33:25	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=232 to http://agency.yolox.ancorathemes.com/how-our-clients-determine-their-successful-strategies/
+22:33:27	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=304
+22:33:27	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=304 to http://agency.yolox.ancorathemes.com/excessive-illustration-and-vector-graphics/
+22:33:27	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/wp-content/uploads/2018/08/post-10-copyright.jpg (from agency.yolox.ancorathemes.com/excessive-illustration-and-vector-graphics/)
+22:33:27	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=300
+22:33:27	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=300 to http://agency.yolox.ancorathemes.com/are-you-in-trade-heres-what-you-need-to-get-the-target/
+22:33:29	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=344
+22:33:29	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=344 to http://agency.yolox.ancorathemes.com/schedule-adjustment-and-its-influence-on-your-clients/
+22:33:29	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=363
+22:33:29	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=363 to http://agency.yolox.ancorathemes.com/defining-your-business-target-audience/
+22:33:34	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=394
+22:33:34	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=394 to http://agency.yolox.ancorathemes.com/massive-business-information-source-and-data-storage-3/
+22:33:34	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=389
+22:33:34	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=389 to http://agency.yolox.ancorathemes.com/what-makes-a-good-ux-design-for-the-best-user-experience-3/
+22:33:35	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=284
+22:33:35	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=284 to http://agency.yolox.ancorathemes.com/top-10-creative-agencies-to-work-with/
+22:33:41	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=298
+22:33:41	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=298 to http://agency.yolox.ancorathemes.com/dream-team-of-the-future-we-predict-your-business-growth/
+22:33:41	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/product/%22https:/player.vimeo.com/video/39691622?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/product/)
+22:33:41	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/product/%22https:/player.vimeo.com/video/108560545?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/product/)
+22:33:41	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/product/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/product/)
+22:33:41	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/ui-ux/%22https:/player.vimeo.com/video/41083471?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/ui-ux/)
+22:33:41	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/ui-ux/%22https:/player.vimeo.com/video/39691622?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/ui-ux/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/ui-ux/%22https:/player.vimeo.com/video/117159756?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/ui-ux/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/inspiration/%22https:/player.vimeo.com/video/8419440?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/inspiration/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/inspiration/%22https:/player.vimeo.com/video/98023574?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/inspiration/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/inspiration/%22https:/player.vimeo.com/video/22309867?color=1c88b4&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/inspiration/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/inspiration/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/inspiration/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/video/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/video/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/video/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/video/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/video/%22https:/player.vimeo.com/video/8419440?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/video/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/video/%22https:/player.vimeo.com/video/41083471?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/video/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/video/%22https:/player.vimeo.com/video/98023574?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/video/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/video/%22https:/player.vimeo.com/video/108560545?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/video/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/video/%22https:/player.vimeo.com/video/22309867?color=1c88b4&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/video/)
+22:33:42	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/video/%22https:/player.vimeo.com/video/117159756?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/video/)
+22:33:48	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=226
+22:33:48	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=226 to http://agency.yolox.ancorathemes.com/graphic-design-in-the-world-of-marketing-business/
+22:33:48	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=230
+22:33:48	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=230 to http://agency.yolox.ancorathemes.com/the-latest-nyc-conference-highlights-and-updates/
+22:33:48	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=228
+22:33:48	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=228 to http://agency.yolox.ancorathemes.com/design-in-all-its-aspects-user-experience-matters/
+22:33:52	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=2068
+22:33:52	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=2068 to http://agency.yolox.ancorathemes.com/event/marketing-research-programs/
+22:33:52	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=2072
+22:33:52	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=2072 to http://agency.yolox.ancorathemes.com/event/workshops-design-development/
+22:33:54	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/all-posts/page/4/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/all-posts/page/4/)
+22:34:13	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/2/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/2/)
+22:34:18	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/3/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/3/)
+22:34:18	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/3/%22https:/player.vimeo.com/video/8419440?autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/3/)
+22:34:18	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/3/%22https:/player.vimeo.com/video/41083471?autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/3/)
+22:34:18	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/3/%22https:/player.vimeo.com/video/39691622?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/3/)
+22:34:18	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/3/%22https:/player.vimeo.com/video/98023574?autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/3/)
+22:34:18	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/3/%22https:/player.vimeo.com/video/108560545?color=ffffff&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/3/)
+22:34:18	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/3/%22https:/player.vimeo.com/video/22309867?color=1c88b4&title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/3/)
+22:34:18	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/3/%22https:/player.vimeo.com/video/117159756?autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/3/)
+22:34:18	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/3/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/3/)
+22:34:19	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/articles/page/3/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/articles/page/3/)
+22:34:19	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/blog/page/2/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/blog/page/2/)
+22:34:19	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/blog/page/2/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/blog/page/2/)
+22:34:19	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/blog/page/3/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/blog/page/3/)
+22:34:19	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=276
+22:34:19	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=276 to http://agency.yolox.ancorathemes.com/how-to-make-a-competitors-success-work-for-you/
+22:34:20	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/page/2/%22https:/player.vimeo.com/video/154709932?autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/page/2/)
+22:34:20	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/videos/page/2/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/category/videos/page/2/)
+22:34:20	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=365
+22:34:20	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=365 to http://agency.yolox.ancorathemes.com/running-out-of-time-ideas-visit-our-blog/
+22:34:20	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=372
+22:34:20	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=372 to http://agency.yolox.ancorathemes.com/the-role-of-graphics-in-data-analysis/
+22:34:20	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=306
+22:34:20	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=306 to http://agency.yolox.ancorathemes.com/top-5-design-trends-in-the-fall-of-2018/
+22:34:20	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=339
+22:34:20	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=339 to http://agency.yolox.ancorathemes.com/things-you-need-to-improve-for-better-customer-care/
+22:34:20	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=368
+22:34:20	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=368 to http://agency.yolox.ancorathemes.com/what-it-takes-to-be-a-financial-advisor-insider-talks/
+22:34:20	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=336
+22:34:20	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=336 to http://agency.yolox.ancorathemes.com/we-help-you-to-get-the-idea-and-pick-the-direction/
+22:34:20	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=282
+22:34:20	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=282 to http://agency.yolox.ancorathemes.com/improving-customer-experience-is-easy/
+22:34:20	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/category/usability/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/category/usability/)
+22:34:20	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=280
+22:34:20	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=280 to http://agency.yolox.ancorathemes.com/filming-and-editing-corporate-video-ads/
+22:34:20	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/tag/video/page/2/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/tag/video/page/2/)
+22:34:21	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=2066
+22:34:21	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=2066 to http://agency.yolox.ancorathemes.com/event/project-management-consultations/
+22:34:21	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=2064
+22:34:21	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=2064 to http://agency.yolox.ancorathemes.com/event/new-york-business-conference/
+22:34:21	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=278
+22:34:21	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=278 to http://agency.yolox.ancorathemes.com/how-to-move-from-junior-to-senior-designer/
+22:34:22	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=370
+22:34:22	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=370 to http://agency.yolox.ancorathemes.com/customer-oriented-design-and-business-strategy/
+22:34:22	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=326
+22:34:22	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=326 to http://agency.yolox.ancorathemes.com/unique-approach-to-the-basic-graphic-design-objectives/
+22:34:22	Warning: 	Moved Permanently for agency.yolox.ancorathemes.com/?p=331
+22:34:22	Warning: 	File has moved from agency.yolox.ancorathemes.com/?p=331 to http://agency.yolox.ancorathemes.com/massive-business-information-source-and-data-storage/
+22:34:22	Error: 	"Not Found" (404) at link agency.yolox.ancorathemes.com/author/trx_admin/page/4/%22https:/player.vimeo.com/video/180709694?title=0&byline=0&portrait=0&autoplay=1%22 (from agency.yolox.ancorathemes.com/author/trx_admin/page/4/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 36 seconds : 976 links scanned, 809 files written (124049575 bytes overall) [41508767 bytes received at 24189 bytes/sec], 146789009 bytes transferred using HTTP compression in 538 files, ratio 11%, 10.1 requests per connection
+(86 errors, 161 warnings, 0 messages)

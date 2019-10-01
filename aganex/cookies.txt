@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ancorathemes.com	TRUE	/	FALSE	1999999999	__cfduid	de10bdb45c6ae51bf1571f6485ad7916b1569946962
+
